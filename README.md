@@ -1,9 +1,6 @@
 # Twitter_Campaign_Analyzer
 For comparing and plotting various aspects of tweet data of different companies (handles) during a given period.
 
-# Twitter_Campaign_Analyzer
-For comparing and plotting various aspects of tweet data of different companies (handles) during a given period.
-
 **Problem definition:**
 November is National Diabetes Month. As one might expect, the month experiences an uptick in diabetes advocacy from key opinion leaders, marketing campaigns from diabetes related business, etc. The goal of this analysis is to understand the effectiveness of these campaigns.
 
