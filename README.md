@@ -9,12 +9,10 @@ November is National Diabetes Month. As one might expect, the month experiences 
 
 **Instructions & Guidelines:**  
 1. The focus is on comparing the Twitter accounts of these companies:  
-    - Medtronic Diabetes vs Omnipod vs Tandem (Continuous Glucose Monitor and/or Insulin Pump makers  
-    - One Touch vs AccuChek (USA) vs Abbott Freestyle (meter makers)  
 2. Guidelines for analysis:  
-    1. Defining the framework/metric. Considerations:  
-        - \# of favorited tweets / # of retweets.  
-        - \# of followers / # of tweets per account could sway data (e.g. a bad campaign with 1 million followers could look better on surface compared to a good campaign with 100 followers).  
-        - NLP / sentiment analysis.  
-    2. Analysis of which company within each group had most successful November.  
-    3. A visual to demonstrate the results.  
+  1. Defining the framework/metric. Considerations:  
+    - \# of favorited tweets / # of retweets.  
+    - \# of followers / # of tweets per account could sway data (e.g. a bad campaign with 1 million followers could look better on surface compared to a good campaign with 100 followers).  
+    - NLP / sentiment analysis.  
+  2. Analysis of which company within each group had most successful November.  
+  3. A visual to demonstrate the results.  
